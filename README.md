@@ -23,4 +23,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikymonz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div><br>
 
-<img align="left" height="120" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
