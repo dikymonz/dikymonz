@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript Framework**
 
-- 👨‍💻 Visit [https://my-portfolio-dikymonz.vercel.app](https://my-portfolio-dikymonz.vercel.app)
-
 - 📫 How to reach me **diky.monz03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
