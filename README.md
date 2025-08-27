@@ -6,5 +6,3 @@
 - 🌱 I’m currently learning **Javascript Framework**
 
 - 📫 How to reach me **diky.monz03@gmail.com**
-
-<h3 align="left">Ckkk</h3>
